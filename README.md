@@ -10,6 +10,7 @@ Anwen
 
 ### 最新
 
+* [MVC高级特性 & REST服务 & Security企业级认证授权 & 优雅编码](http://www.zhenganwen.top/articles/2019/08/29/1567053196289.html)
 * [图解设计模式](http://www.zhenganwen.top/articles/2019/08/13/1565708710564.html)
 * [遇见PlantUML~](http://www.zhenganwen.top/articles/2019/08/13/1565706581397.html)
 * [一图搞定JVM基础之虚拟机执行引擎](http://www.zhenganwen.top/articles/2019/08/06/1565052030988.html)
@@ -29,11 +30,11 @@ Anwen
 * [腾讯一面，焉知喜凉](http://www.zhenganwen.top/articles/2019/03/13/1565048871604.html)
 * [Doug Lea并发设计模式（JUC学习前奏）](http://www.zhenganwen.top/articles/2019/02/20/1565048876844.html)
 * [一起来梳理JVM知识点](http://www.zhenganwen.top/articles/2019/02/18/1565048875329.html)
-* [一份薄礼](http://www.zhenganwen.top/articles/2019/02/04/1565048877127.html)
 
 ### 热门
 
 * [剑指offer解析（Java实现）](http://www.zhenganwen.top/articles/2019/01/19/1565048868951.html)
+* [一份薄礼](http://www.zhenganwen.top/articles/2019/02/04/1565048877127.html)
 * [直通BAT算法（基础篇）](http://www.zhenganwen.top/articles/2018/10/13/1565048872487.html)
 * [左神直通BAT算法（进阶篇）](http://www.zhenganwen.top/articles/2018/11/27/1565048879531.html)
 * [并发与多线程之基础篇（完结）](http://www.zhenganwen.top/articles/2019/01/31/1565048861287.html)
@@ -47,12 +48,11 @@ Anwen
 * [SpringBoot2.x（七）常用Starter介绍和整合模板引擎Freemarker、Thymeleaf](http://www.zhenganwen.top/articles/2018/07/20/1565048874217.html)
 * [SpringBoot2.x（十）整合定时任务和异步任务处理](http://www.zhenganwen.top/articles/2018/07/21/1565048866891.html)
 * [任务调度SpringTask](http://www.zhenganwen.top/articles/2018/07/14/1565048858265.html)
-* [单点登录解决方案-CAS](http://www.zhenganwen.top/articles/2018/07/01/1565048875571.html)
 * [自己动手编译OpenJDK](http://www.zhenganwen.top/articles/2019/01/24/1565048871822.html)
+* [单点登录解决方案-CAS](http://www.zhenganwen.top/articles/2018/07/01/1565048875571.html)
 * [SpringCloud（六）Feign负载均衡](http://www.zhenganwen.top/articles/2018/07/31/1565048873435.html)
 * [Nginx入门（三）之反向代理](http://www.zhenganwen.top/articles/2018/03/11/1565048864892.html)
-* [秒杀解决方案](http://www.zhenganwen.top/articles/2018/07/13/1565048868644.html)
-* [SpringCloud（八）路由网关](http://www.zhenganwen.top/articles/2018/08/02/1565048865721.html)
+* [Maven Profile](http://www.zhenganwen.top/articles/2018/07/14/1565048866244.html)
 
 ### 热议
 
@@ -63,10 +63,11 @@ Anwen
 * [SpringBoot2.x（五）启动方式&启动原理](http://www.zhenganwen.top/articles/2018/07/19/1565048864635.html)
 * [Nginx入门（一）](http://www.zhenganwen.top/articles/2018/03/11/1565048865099.html)
 * [SpringBoot2.x（九）整合Redis实战](http://www.zhenganwen.top/articles/2018/07/21/1565048865389.html)
-* [Maven Profile](http://www.zhenganwen.top/articles/2018/07/14/1565048866244.html)
+* [SpringCloud（八）路由网关](http://www.zhenganwen.top/articles/2018/08/02/1565048865721.html)
 * [SpringBoot2.x（三）热部署devtool和配置文件自动注入实战](http://www.zhenganwen.top/articles/2018/07/18/1565048866547.html)
 * [SpringBoot2.x（十七）Actuator监控实战](http://www.zhenganwen.top/articles/2018/07/29/1565048867538.html)
 * [SpringBoot2.x（二）SpringBoot接口Http](http://www.zhenganwen.top/articles/2018/07/17/1565048868328.html)
+* [秒杀解决方案](http://www.zhenganwen.top/articles/2018/07/13/1565048868644.html)
 * [IDEA插件JRebel实现热部署](http://www.zhenganwen.top/articles/2018/05/14/1565048869325.html)
 * [SpringCloud（一）微服务概述](http://www.zhenganwen.top/articles/2018/07/29/1565048870895.html)
 * [SpringBoot2.x（四）单元测试进阶实战和自定义异常处理](http://www.zhenganwen.top/articles/2018/07/19/1565048872103.html)
@@ -75,7 +76,6 @@ Anwen
 * [Jedis开发redis单机和集群以及缓存同步](http://www.zhenganwen.top/articles/2018/03/15/1565048874437.html)
 * [IDEA集成JRebel实现Tomcat/Maven热部署](http://www.zhenganwen.top/articles/2018/05/22/1565048875016.html)
 * [SpringCloud（九）分布式配置管理Config](http://www.zhenganwen.top/articles/2018/08/02/1565048875857.html)
-* [SpringCloud（二）SpringCloud入门概述](http://www.zhenganwen.top/articles/2018/07/29/1565048876066.html)
 
 ---
 
