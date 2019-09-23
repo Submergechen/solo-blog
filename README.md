@@ -1,15 +1,16 @@
-<p align="center"><img alt="Anwen——Java技术博客,立志成为斜杠青年:IT极客/健身/旅行/国菜大厨/汽车" src="https://tvax4.sinaimg.cn/crop.0.0.996.996.180/4b0c804aly8g5jdeaabe6j20ro0rodia.jpg?KID=imgbed,tva&Expires=1565425690&ssig=3TUEMZRs3G"></p><h2 align="center">
-Anwen——Java技术博客,立志成为斜杠青年:IT极客/健身/旅行/国菜大厨/汽车
+<p align="center"><img alt="Anwen——Java技术博客,立志成为斜杠青年:IT极客/健身/旅行/国菜大厨" src="https://tvax4.sinaimg.cn/crop.0.0.996.996.180/4b0c804aly8g5jdeaabe6j20ro0rodia.jpg?KID=imgbed,tva&Expires=1565425690&ssig=3TUEMZRs3G"></p><h2 align="center">
+Anwen——Java技术博客,立志成为斜杠青年:IT极客/健身/旅行/国菜大厨
 </h2>
 
 <h4 align="center">别人的看法都是狗屁，你是谁只有自己说了算。若命运不公，就和他斗到底。<br/><div style="text-align:center">——《哪吒之魔童降世》<div/></h4>
-<p align="center"><a title="Anwen——Java技术博客,立志成为斜杠青年:IT极客/健身/旅行/国菜大厨/汽车" target="_blank" href="https://github.com/zanwen/solo-blog"><img src="https://img.shields.io/github/last-commit/zanwen/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<p align="center"><a title="Anwen——Java技术博客,立志成为斜杠青年:IT极客/健身/旅行/国菜大厨" target="_blank" href="https://github.com/zanwen/solo-blog"><img src="https://img.shields.io/github/last-commit/zanwen/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/zanwen/solo-blog"><img src="https://img.shields.io/github/repo-size/zanwen/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/zanwen/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [MapReduce工作流程](http://www.zhenganwen.top/articles/2019/09/21/1569043658446.html)
 * [2019.7.15 ~ 9.15 实习小结](http://www.zhenganwen.top/articles/2019/09/15/1568561036851.html)
 * [程序肌肉猿](http://www.zhenganwen.top/articles/2019/09/03/1567505045521.html)
 * [Spring Security 技术栈开发企业级认证授权](http://www.zhenganwen.top/articles/2019/08/29/1567053196289.html)
@@ -29,7 +30,6 @@ Anwen——Java技术博客,立志成为斜杠青年:IT极客/健身/旅行/国�
 * [Elasticsearch入门及掌握其JavaAPI](http://www.zhenganwen.top/articles/2019/04/22/1565048870169.html)
 * [使用Netty三分钟手写一个RPC](http://www.zhenganwen.top/articles/2019/03/30/1565048874695.html)
 * [阿里菜鸟网络一面](http://www.zhenganwen.top/articles/2019/03/17/1565048867161.html)
-* [腾讯一面，焉知喜凉](http://www.zhenganwen.top/articles/2019/03/13/1565048871604.html)
 
 ### 热门
 
@@ -39,20 +39,20 @@ Anwen——Java技术博客,立志成为斜杠青年:IT极客/健身/旅行/国�
 * [左神直通BAT算法（进阶篇）](http://www.zhenganwen.top/articles/2018/11/27/1565048879531.html)
 * [并发与多线程之基础篇（完结）](http://www.zhenganwen.top/articles/2019/01/31/1565048861287.html)
 * [一起来梳理JVM知识点](http://www.zhenganwen.top/articles/2019/02/18/1565048875329.html)
-* [一份薄礼](http://www.zhenganwen.top/articles/2019/02/04/1565048877127.html)
 * [从CPU Cache出发彻底弄懂volatile/synchronized/cas](http://www.zhenganwen.top/articles/2019/02/04/1565048867969.html)
+* [一份薄礼](http://www.zhenganwen.top/articles/2019/02/04/1565048877127.html)
+* [腾讯一面，焉知喜凉](http://www.zhenganwen.top/articles/2019/03/13/1565048871604.html)
 * [Doug Lea并发设计模式（JUC学习前奏）](http://www.zhenganwen.top/articles/2019/02/20/1565048876844.html)
-* [SpringBoot+ActiveMQ+阿里大于实现短信发送微服务](http://www.zhenganwen.top/articles/2018/06/21/1565048862438.html)
 * [SpringBoot2.x（十二）整合ElasticSearch](http://www.zhenganwen.top/articles/2018/07/22/1565048880383.html)
+* [SpringBoot+ActiveMQ+阿里大于实现短信发送微服务](http://www.zhenganwen.top/articles/2018/06/21/1565048862438.html)
 * [SpringBoot2.x（十）整合定时任务和异步任务处理](http://www.zhenganwen.top/articles/2018/07/21/1565048866891.html)
-* [SpringBoot2.x（七）常用Starter介绍和整合模板引擎Freemarker、Thymeleaf](http://www.zhenganwen.top/articles/2018/07/20/1565048874217.html)
-* [趣链科技和阅文集团一面](http://www.zhenganwen.top/articles/2018/12/30/1565048880194.html)
 * [SpringBoot2.x（六）拦截器实战和Servlet3.0自定义Filter、Listener](http://www.zhenganwen.top/articles/2018/07/20/1565048876631.html)
-* [Nginx入门（三）之反向代理](http://www.zhenganwen.top/articles/2018/03/11/1565048864892.html)
+* [SpringBoot2.x（七）常用Starter介绍和整合模板引擎Freemarker、Thymeleaf](http://www.zhenganwen.top/articles/2018/07/20/1565048874217.html)
 * [SpringBoot2.x（十七）Actuator监控实战](http://www.zhenganwen.top/articles/2018/07/29/1565048867538.html)
+* [趣链科技和阅文集团一面](http://www.zhenganwen.top/articles/2018/12/30/1565048880194.html)
+* [Nginx入门（三）之反向代理](http://www.zhenganwen.top/articles/2018/03/11/1565048864892.html)
 * [SpringBoot2.x（十六）响应式编程webflux和服务器端主动推送SSE](http://www.zhenganwen.top/articles/2018/07/27/1565048880880.html)
-* [SpringBoot2.x（十一）Logback日志介绍和SpringBoot整合实战](http://www.zhenganwen.top/articles/2018/07/21/1565048876403.html)
-* [SpringCloud（五）Ribbon负载均衡](http://www.zhenganwen.top/articles/2018/07/31/1565048880583.html)
+* [单点登录解决方案-CAS](http://www.zhenganwen.top/articles/2018/07/01/1565048875571.html)
 
 ### 热议
 
