@@ -10,6 +10,7 @@ Anwen——Java技术博客,立志成为斜杠青年:IT极客/健身/旅行/国�
 
 ### 最新
 
+* [Hadoop 2.x HA（高可用） 集群实战](http://www.zhenganwen.top/articles/2019/09/27/1569551425024.html)
 * [MapReduce工作流程](http://www.zhenganwen.top/articles/2019/09/21/1569043658446.html)
 * [2019.7.15 ~ 9.15 实习小结](http://www.zhenganwen.top/articles/2019/09/15/1568561036851.html)
 * [程序肌肉猿](http://www.zhenganwen.top/articles/2019/09/03/1567505045521.html)
@@ -29,30 +30,29 @@ Anwen——Java技术博客,立志成为斜杠青年:IT极客/健身/旅行/国�
 * [MySQL高级](http://www.zhenganwen.top/articles/2019/05/30/1565048878717.html)
 * [Elasticsearch入门及掌握其JavaAPI](http://www.zhenganwen.top/articles/2019/04/22/1565048870169.html)
 * [使用Netty三分钟手写一个RPC](http://www.zhenganwen.top/articles/2019/03/30/1565048874695.html)
-* [阿里菜鸟网络一面](http://www.zhenganwen.top/articles/2019/03/17/1565048867161.html)
 
 ### 热门
 
-* [MySQL优化看这一篇就够了](http://www.zhenganwen.top/articles/2018/12/25/1565048860202.html)
 * [剑指offer解析（Java实现）](http://www.zhenganwen.top/articles/2019/01/19/1565048868951.html)
+* [MySQL优化看这一篇就够了](http://www.zhenganwen.top/articles/2018/12/25/1565048860202.html)
 * [直通BAT算法（基础篇）](http://www.zhenganwen.top/articles/2018/10/13/1565048872487.html)
 * [左神直通BAT算法（进阶篇）](http://www.zhenganwen.top/articles/2018/11/27/1565048879531.html)
 * [并发与多线程之基础篇（完结）](http://www.zhenganwen.top/articles/2019/01/31/1565048861287.html)
 * [一起来梳理JVM知识点](http://www.zhenganwen.top/articles/2019/02/18/1565048875329.html)
+* [阿里菜鸟网络一面](http://www.zhenganwen.top/articles/2019/03/17/1565048867161.html)
 * [从CPU Cache出发彻底弄懂volatile/synchronized/cas](http://www.zhenganwen.top/articles/2019/02/04/1565048867969.html)
 * [一份薄礼](http://www.zhenganwen.top/articles/2019/02/04/1565048877127.html)
 * [Doug Lea并发设计模式（JUC学习前奏）](http://www.zhenganwen.top/articles/2019/02/20/1565048876844.html)
 * [腾讯一面，焉知喜凉](http://www.zhenganwen.top/articles/2019/03/13/1565048871604.html)
 * [SpringBoot2.x（十二）整合ElasticSearch](http://www.zhenganwen.top/articles/2018/07/22/1565048880383.html)
 * [SpringBoot+ActiveMQ+阿里大于实现短信发送微服务](http://www.zhenganwen.top/articles/2018/06/21/1565048862438.html)
-* [SpringBoot2.x（十）整合定时任务和异步任务处理](http://www.zhenganwen.top/articles/2018/07/21/1565048866891.html)
 * [SpringBoot2.x（二）SpringBoot接口Http](http://www.zhenganwen.top/articles/2018/07/17/1565048868328.html)
+* [SpringBoot2.x（十）整合定时任务和异步任务处理](http://www.zhenganwen.top/articles/2018/07/21/1565048866891.html)
 * [SpringBoot2.x（十七）Actuator监控实战](http://www.zhenganwen.top/articles/2018/07/29/1565048867538.html)
 * [SpringBoot2.x（六）拦截器实战和Servlet3.0自定义Filter、Listener](http://www.zhenganwen.top/articles/2018/07/20/1565048876631.html)
 * [趣链科技和阅文集团一面](http://www.zhenganwen.top/articles/2018/12/30/1565048880194.html)
 * [SpringBoot2.x（十六）响应式编程webflux和服务器端主动推送SSE](http://www.zhenganwen.top/articles/2018/07/27/1565048880880.html)
 * [SpringBoot2.x（七）常用Starter介绍和整合模板引擎Freemarker、Thymeleaf](http://www.zhenganwen.top/articles/2018/07/20/1565048874217.html)
-* [Nginx入门（三）之反向代理](http://www.zhenganwen.top/articles/2018/03/11/1565048864892.html)
 
 ### 热议
 
@@ -63,6 +63,7 @@ Anwen——Java技术博客,立志成为斜杠青年:IT极客/健身/旅行/国�
 * [购物车解决方案](http://www.zhenganwen.top/articles/2018/07/02/1565048863158.html)
 * [Nginx入门（二）之配置虚拟主机](http://www.zhenganwen.top/articles/2018/03/11/1565048864194.html)
 * [SpringBoot2.x（五）启动方式&启动原理](http://www.zhenganwen.top/articles/2018/07/19/1565048864635.html)
+* [Nginx入门（三）之反向代理](http://www.zhenganwen.top/articles/2018/03/11/1565048864892.html)
 * [Nginx入门（一）](http://www.zhenganwen.top/articles/2018/03/11/1565048865099.html)
 * [SpringBoot2.x（九）整合Redis实战](http://www.zhenganwen.top/articles/2018/07/21/1565048865389.html)
 * [SpringCloud（八）路由网关](http://www.zhenganwen.top/articles/2018/08/02/1565048865721.html)
@@ -75,7 +76,6 @@ Anwen——Java技术博客,立志成为斜杠青年:IT极客/健身/旅行/国�
 * [SpringBoot2.x（四）单元测试进阶实战和自定义异常处理](http://www.zhenganwen.top/articles/2018/07/19/1565048872103.html)
 * [分布式ID生成器](http://www.zhenganwen.top/articles/2018/07/13/1565048873043.html)
 * [跨域解决方案CORS](http://www.zhenganwen.top/articles/2018/07/10/1565048873230.html)
-* [SpringCloud（六）Feign负载均衡](http://www.zhenganwen.top/articles/2018/07/31/1565048873435.html)
 
 ---
 
