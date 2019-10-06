@@ -51,8 +51,8 @@ Anwen——Java技术博客,立志成为斜杠青年:IT极客/健身/旅行/国�
 * [SpringBoot2.x（十）整合定时任务和异步任务处理](http://www.zhenganwen.top/articles/2018/07/21/1565048866891.html)
 * [SpringBoot2.x（十七）Actuator监控实战](http://www.zhenganwen.top/articles/2018/07/29/1565048867538.html)
 * [SpringBoot2.x（六）拦截器实战和Servlet3.0自定义Filter、Listener](http://www.zhenganwen.top/articles/2018/07/20/1565048876631.html)
-* [趣链科技和阅文集团一面](http://www.zhenganwen.top/articles/2018/12/30/1565048880194.html)
 * [SpringBoot2.x（七）常用Starter介绍和整合模板引擎Freemarker、Thymeleaf](http://www.zhenganwen.top/articles/2018/07/20/1565048874217.html)
+* [Nginx入门（三）之反向代理](http://www.zhenganwen.top/articles/2018/03/11/1565048864892.html)
 
 ### 热议
 
@@ -63,7 +63,6 @@ Anwen——Java技术博客,立志成为斜杠青年:IT极客/健身/旅行/国�
 * [购物车解决方案](http://www.zhenganwen.top/articles/2018/07/02/1565048863158.html)
 * [Nginx入门（二）之配置虚拟主机](http://www.zhenganwen.top/articles/2018/03/11/1565048864194.html)
 * [SpringBoot2.x（五）启动方式&启动原理](http://www.zhenganwen.top/articles/2018/07/19/1565048864635.html)
-* [Nginx入门（三）之反向代理](http://www.zhenganwen.top/articles/2018/03/11/1565048864892.html)
 * [Nginx入门（一）](http://www.zhenganwen.top/articles/2018/03/11/1565048865099.html)
 * [SpringBoot2.x（九）整合Redis实战](http://www.zhenganwen.top/articles/2018/07/21/1565048865389.html)
 * [SpringCloud（八）路由网关](http://www.zhenganwen.top/articles/2018/08/02/1565048865721.html)
@@ -76,6 +75,7 @@ Anwen——Java技术博客,立志成为斜杠青年:IT极客/健身/旅行/国�
 * [SpringBoot2.x（四）单元测试进阶实战和自定义异常处理](http://www.zhenganwen.top/articles/2018/07/19/1565048872103.html)
 * [分布式ID生成器](http://www.zhenganwen.top/articles/2018/07/13/1565048873043.html)
 * [跨域解决方案CORS](http://www.zhenganwen.top/articles/2018/07/10/1565048873230.html)
+* [SpringCloud（六）Feign负载均衡](http://www.zhenganwen.top/articles/2018/07/31/1565048873435.html)
 
 ---
 
